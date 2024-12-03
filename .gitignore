@@ -1,0 +1,6 @@
+CleanedTrainData
+CleanedTestData
+.ipynb_checkpoints
+__pycache__
+*.nii*
+*.csv
