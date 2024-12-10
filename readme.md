@@ -1,5 +1,7 @@
 # Hip Cartilage Labrum Segmentation
 
+[![DOI](https://zenodo.org/badge/896065736.svg)](https://doi.org/10.5281/zenodo.14316889)
+
 Welcome to the **Hip Cartilage Labrum Segmentation** repository! This project provides code for preprocessing, training, and evaluation of hip cartilage and labrum segmentation using MP2RAGE and TRUFI MR images. It leverages the powerful [nnU-Net](https://github.com/MIC-DKFZ/nnUNet/tree/v1.7.1) framework.
 
 ## Reference Framework
