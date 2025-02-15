@@ -13,8 +13,8 @@ This work is based on nnU-Net, a self-configuring method for deep learning-based
 
 ## Related Publication
 
-For detailed insights into the segmentation process, please refer to our paper currently under review:  
-[A Deep Learning Approach for Automatic 3D Segmentation of Hip Cartilage and Labrum from Direct Hip MR Arthrography](https://doi.org/10.21203/rs.3.rs-3654066/v1)
+For detailed insights into the segmentation process, please refer to our paper:  
+[A deep learning approach for automatic 3D segmentation of hip cartilage and labrum from direct hip MR arthrography](https://doi.org/10.1038/s41598-025-86727-z)
 
 
 ---
@@ -32,12 +32,20 @@ For detailed insights into the segmentation process, please refer to our paper c
 If you find this repository useful, kindly cite our paper:  
 
 ```plaintext
-@article{
-  title={A Deep Learning Approach for Automatic 3D Segmentation of Hip Cartilage and Labrum from Direct Hip MR Arthrography},
-  author={Meier, Malin Kristin and Helfenstein, Ramon and Boschung, Adam and Nanavati, Andreas and Ruckli, Adrian C. and Lerch, Till D. and Gerber, Nicolas and Jung, Bernd and Afacan, Onur and Tannast, Moritz and Siebenrock, Klaus A. and Steppacher, Simon Damian and Schmaranzer, Florian},
-  journal={Preprint under review},
-  year={2024},
-  doi={10.21203/rs.3.rs-3654066/v1}
+@article{meier_deep_2025,
+	title = {A deep learning approach for automatic {3D} segmentation of hip cartilage and labrum from direct hip {MR} arthrography},
+	volume = {15},
+	issn = {2045-2322},
+	url = {https://www.nature.com/articles/s41598-025-86727-z},
+	doi = {10.1038/s41598-025-86727-z},
+	language = {en},
+	number = {1},
+	urldate = {2025-02-10},
+	journal = {Sci Rep},
+	author = {Meier, Malin Kristin and Helfenstein, Ramon Andreas and Boschung, Adam and Nanavati, Andreas and Ruckli, Adrian and Lerch, Till D. and Gerber, Nicolas and Jung, Bernd and Afacan, Onur and Tannast, Moritz and Siebenrock, Klaus A. and Steppacher, Simon D and Schmaranzer, Florian},
+	month = feb,
+	year = {2025},
+	pages = {4662},
 }
 ```  
 
